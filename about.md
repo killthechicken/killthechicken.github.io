@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
+published: true
 ---
 
 Some information about you!
